@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "701497131409",
+    "project_id": "self-318db",
+    "storage_bucket": "self-318db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701497131409:android:670ed2dc10daa8802d5a30",
+        "android_client_info": {
+          "package_name": "com.sudiptacseseu.self"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701497131409-ohq9n3rtcahjb074osrtt9pffhevf4p9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-t_gOiivBeg5UtndRyi592Q8CWzDiZEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701497131409-ohq9n3rtcahjb074osrtt9pffhevf4p9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
